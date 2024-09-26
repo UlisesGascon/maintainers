@@ -115,12 +115,17 @@
             "score": 7.1,
             "date": "2024-09-09T00:19:45Z",
             "commit": "39fa1844252baa7fe8c4db99aad413f1d560d67e"
+          },
+          {
+            "score": 6.9,
+            "date": "2024-09-16T00:19:48Z",
+            "commit": "39fa1844252baa7fe8c4db99aad413f1d560d67e"
           }
         ],
         "current": {
-          "score": 6.9,
-          "date": "2024-09-16T00:19:48Z",
-          "commit": "39fa1844252baa7fe8c4db99aad413f1d560d67e"
+          "score": 7,
+          "date": "2024-09-25T12:55:20Z",
+          "commit": "a99f5be4dc7df731bc33bdad6eef69ed36440374"
         }
       },
       "agnostic-cms-harmonizer": {
@@ -1902,12 +1907,17 @@
             "score": 3.5,
             "date": "2024-06-10",
             "commit": "c2c2ef44399bc2d979d1070e517e09894e8b7dc3"
+          },
+          {
+            "score": 3.4,
+            "date": "2024-08-19",
+            "commit": "c2c2ef44399bc2d979d1070e517e09894e8b7dc3"
           }
         ],
         "current": {
-          "score": 3.4,
-          "date": "2024-08-19",
-          "commit": "c2c2ef44399bc2d979d1070e517e09894e8b7dc3"
+          "score": 4.2,
+          "date": "2024-09-23",
+          "commit": "96ccbb11413c06363d896eebefaca717d1cd9079"
         }
       },
       "react-native-uservoice": {
