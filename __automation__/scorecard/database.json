@@ -130,11 +130,16 @@
             "score": 7.2,
             "date": "2024-11-11T00:20:08Z",
             "commit": "a99f5be4dc7df731bc33bdad6eef69ed36440374"
+          },
+          {
+            "score": 7.8,
+            "date": "2024-11-25T00:21:28Z",
+            "commit": "3e9d5f864f2c71b24f0fc6422caf9b14a706880c"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2024-11-25T00:21:28Z",
+          "score": 7.1,
+          "date": "2024-12-02T00:22:22Z",
           "commit": "3e9d5f864f2c71b24f0fc6422caf9b14a706880c"
         }
       },
