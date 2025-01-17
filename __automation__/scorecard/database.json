@@ -1017,11 +1017,16 @@
             "score": 2.5,
             "date": "2024-09-16",
             "commit": "42332c58edf486ec6cd7f972656365325afd03b0"
+          },
+          {
+            "score": 2.4,
+            "date": "2024-11-18",
+            "commit": "42332c58edf486ec6cd7f972656365325afd03b0"
           }
         ],
         "current": {
-          "score": 2.4,
-          "date": "2024-11-18",
+          "score": 2.3,
+          "date": "2025-01-13",
           "commit": "42332c58edf486ec6cd7f972656365325afd03b0"
         }
       },
